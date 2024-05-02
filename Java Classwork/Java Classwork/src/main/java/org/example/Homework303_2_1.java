@@ -63,7 +63,7 @@ public class Homework303_2_1 {
         System.out.println("The result is : " + q);
 
         //cast y to a double and assign it to q. Print q again.
-        q = (double) y;
+        q = (double) y / x;
         System.out.println("The result is : " + q);
 
         //Write a program that declares a named constant and uses it in a calculation
